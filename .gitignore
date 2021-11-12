@@ -1,0 +1,13 @@
+/logs
+/plugins
+banned-ips.json
+banned-players.json
+bukkit.yml
+commands.yml
+eula.txt
+help.yml
+ops.json
+permissions.yml
+spigot.yml
+usercache.json
+whitelist.json
